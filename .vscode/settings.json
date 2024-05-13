@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Dash_App_and_Models"
+    ]
+}
